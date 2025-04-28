@@ -14,7 +14,7 @@ An unofficial successor to the original [firepwn by 0xbigshaq](https://github.co
 # Usage
 
 > [!NOTE]  
-> This application **does not** phone home or send data to anyone.  
+> This application **does not** phone home.  
 > Server-Side Rendering (SSR) is disabled.  
 > You can always review the source code yourself for peace of mind.
 
